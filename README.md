@@ -8,7 +8,7 @@ I have reproduced their mathematics and charted some results from my home state,
 provides various examples of ordinary (mostly straight horizontal line after a little noise on the left) results and 
 suspicious results (slopes after the noise from small precincts).  Here is one chart that doesn't look quite right:
 
-![Chatham County Commissioner District 1][COUNTY_COMMISSIONER_-_DISTRICT_1_DEM-CHATHAM.png]
+![Chatham County Commissioner District 1](https://raw.githubusercontent.com/ke4roh/find-vote-swaps/master/COUNTY_COMMISSIONER_-_DISTRICT_1_DEM-CHATHAM.png)
 
 # You can help!
 You can help by expanding this code to work with other places, by following up on unusual results, 
